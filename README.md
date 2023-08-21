@@ -1,2 +1,2 @@
 # ProgAcademy
-HW in ProgAcademy cource
+Домашка на курсе ProgAcademy
